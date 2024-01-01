@@ -7,10 +7,10 @@ public class Run {
         Scanner sc = new Scanner(System.in);
 
         Employee emp = new Employee();
-        Employee e1 = new Employee(101, "Qasim", "dhd", 123, 2);
-        Employee e2 = new Employee(102, "shabbir", "dhd", 123, 0);
-        Employee e3 = new Employee(103, "hussein", "dhd", 1233, 1);
-        Employee e4 = new Employee(104, "zainab", "dhd", 123, 0);
+        Employee e1 = new Employee(101, "A", "delhi", 123, 2);
+        Employee e2 = new Employee(102, "B", "Mumbai", 123, 0);
+        Employee e3 = new Employee(103, "C", "Ahmedabad", 1233, 1);
+        Employee e4 = new Employee(104, "D", "Surat", 123, 0);
         Employee.emp.add(e1);
         Employee.emp.add(e2);
         Employee.emp.add(e3);

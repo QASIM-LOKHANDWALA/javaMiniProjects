@@ -1,4 +1,4 @@
-package GameZone;
+
 import java.util.*;
 
 class numberGuess{
